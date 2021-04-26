@@ -1,6 +1,6 @@
 # Udagram
 
-#Tasks
+# Tasks
 
 Setup Node Environment
 You'll need to create a new node server. Open a new terminal within the project directory and run:
@@ -16,12 +16,12 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
 Deploying your system
 Follow the process described in the course to eb init a new application and eb create a new environment to deploy your image-filter service! Don't forget you can use eb deploy to push changes.
 
-#link to picture
+# link to picture
 
 http://uda-project-dev.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sunflower_from_Silesia2.jpg/800px-Sunflower_from_Silesia2.jpg
 
 
 
-#link to cloud URL: 
+# link to cloud URL: 
 
 http://uda-project-dev.us-east-2.elasticbeanstalk.com/
